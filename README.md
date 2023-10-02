@@ -112,6 +112,7 @@ It generally depends what you are and you will be working on. Also what your lev
 
 Personally I looked into the following architectures:
 
+* Current Architecture
 * [Basics of google search](http://infolab.stanford.edu/~backrub/google.html)
 * Basics of messaging frameworks like Kafka , queuing architectures like rabbitmq.
 * Broad overview and advantages of Redis , mongodb , cassandra. 
